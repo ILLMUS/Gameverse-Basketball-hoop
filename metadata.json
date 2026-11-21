@@ -1,0 +1,8 @@
+{
+  "name": "Gameverse — Basketball Hoops",
+  "description": "Competitive 2.5D arcade basketball shooting game for Gameverse featuring realistic physics, 7 game modes, Eswatini & global leaderboards, tournaments, and player progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
